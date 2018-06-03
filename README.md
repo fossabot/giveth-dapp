@@ -1,4 +1,5 @@
 ![Giveth Dapp](./readme-header.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvojtechsimetka%2Fgiveth-dapp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvojtechsimetka%2Fgiveth-dapp?ref=badge_shield)
 
 
 > Dapp for donating ether without losing ownership
@@ -156,3 +157,7 @@ THESE ON MAINNET ETHEREUM.**
 
 ## Help
 Reach out to us on [slack](http://slack.giveth.io) for any help or to share ideas.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvojtechsimetka%2Fgiveth-dapp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvojtechsimetka%2Fgiveth-dapp?ref=badge_large)
